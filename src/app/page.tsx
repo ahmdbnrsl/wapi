@@ -126,13 +126,13 @@ export default function Header() {
                         <div className='nav-line group-hover:px-10 group-hover:bg-slate-200 group-active:px-10 group-active:bg-slate-200'></div>
                         Project
                     </button>
-                    <button
+                    {/* <button
                         className='Feedback nav-btn group'
                         onClick={HandleClick}
                     >
                         <div className='nav-line group-hover:px-10 group-hover:bg-slate-200 group-active:px-10 group-active:bg-slate-200'></div>
                         Feedback
-                    </button>
+                    </button> */}
                 </nav>
             </div>
             <div className='icon-box'>
@@ -155,7 +155,7 @@ export default function Header() {
                     <FaLinkedin className='icon hover:text-blue-500' />
                 </Link>
                 <Link
-                    href='https://instagram.com/ahmd.bn.tsx'
+                    href='https://instagram.com/_sigmaths'
                     target='_blank'
                     rel='noreferrer noopener'
                     aria-label='Instagram'

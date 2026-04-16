@@ -1,5 +1,18 @@
 [
     {
+        "name": "Lik Kasirin",
+        "desc": "a Cashier Web App CRM based. Build with Next.js and Tailwind, code with Claude AI",
+        "tags": [
+            "Next.js",
+            "Tailwind CSS",
+            "Typescript"
+            
+        ],
+        "thumbnail": "https://cdn.ab-rust.xyz/file/1776350446281.jpg",
+        "demo": "https://cashier-crm-k572204.vercel.app/",
+        "repo": "https://github.com/ahmdbnrsl/Cashier-CRM-K572204.git"
+    },
+    {
         "name": "CDN Image",
         "desc": "a CDN image storage using github repo storage, build with express.js and frontend native stack.",
         "tags": [
@@ -15,51 +28,11 @@
         "repo": "https://github.com/ahmdbnrsl/cdn-image"
     },
     {
-        "name": "Realtime Chat App",
-        "desc": "This is a real-time chat application built using Next.js 14, Socket.IO, and MongoDB. It features user authentication with OTP via WhatsApp, real-time messaging, online/offline status tracking, and a search functionality for messages.",
-        "tags": [
-            "Next.js",
-            "Typescript",
-            "React",
-            "Tailwind",
-            "Socket.io",
-            "Baileys",
-            "Mongo DB"
-        ],
-        "thumbnail": "/projects/05.jpg",
-        "demo": "https://vbchat.vercel.app/",
-        "repo": "https://github.com/ahmdbnrsl/chat-app"
-    },
-    {
         "name": "Personal Portofolio",
         "desc": "This is my second portfolio, built with Next.js, Tailwind CSS and hosted on Vercel",
         "tags": ["Next.js", "Typescript", "React", "Tailwind"],
         "thumbnail": "/projects/01.jpg",
         "demo": "/",
         "repo": "https://github.com/ahmdbnrsl/Personal-portofolio"
-    },
-    {
-        "name": "Online Qur'an",
-        "desc": "The website Alquran Kareem allows users to read the Quran online. It provides options to navigate through different surahs (chapters) and ayahs (verses). The site has a clean and user-friendly interface, making it easy for users to access and read the Quranic text.",
-        "tags": ["Vite", "Typescript", "React", "Tailwind", "Mongo DB"],
-        "thumbnail": "/projects/02.png",
-        "demo": "https://alquran-kareem.my.id/",
-        "repo": "https://github.com/ahmdbnrsl/Al-Quran"
-    },
-    {
-        "name": "Tiktok Media Downloader",
-        "desc": "Tools which can help you to download some media from tiktok with fast speed and high quality.",
-        "tags": ["Vite", "React", "Tailwind"],
-        "thumbnail": "/projects/03.png",
-        "demo": "https://down-tik.vercel.app/",
-        "repo": "https://github.com/ahmdbnrsl/tiktok-downloader"
-    },
-    {
-        "name": "Note App",
-        "desc": "Simple and minimalist note-taking application. It allows users to create, edit, and manage notes efficiently. The interface is clean and straightforward, focusing on providing a distraction-free writing environment.",
-        "tags": ["Vite", "React", "Tailwind", "Mongo DB", "Bun", "Typescript"],
-        "thumbnail": "/projects/04.png",
-        "demo": "https://notesqu.vercel.app/",
-        "repo": "https://github.com/ahmdbnrsl/note-app"
     }
 ]

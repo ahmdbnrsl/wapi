@@ -82,7 +82,7 @@ export default function RootLayout({
                             {about}
                             {education}
                             {projects}
-                            {feedback}
+                            
                             {footer}
                         </main>
                     </div>

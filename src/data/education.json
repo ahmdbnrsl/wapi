@@ -1,13 +1,14 @@
 [
     {
-        "title": "STMIK Komputama Majenang",
-        "level": "College of Computer Science and Management",
+        "title": "Universitas Komputama Cilacap",
+        "level": "Information Systems Bachelor Degree",
         "year": "2024 — NOW",
-        "desc": "STMIK Komputama Majenang is a College of Informatics and Computer Management located in Majenang, Central Java, Indonesia. The institution offers study programs in information technology and computer science, focusing on the development of both practical and theoretical skills in these fields.",
+        "desc": "Universitas Komputama Cilacap is a University located in Majenang, Central Java, Indonesia. The institution offers study programs in information technology and computer science, focusing on the development of both practical and theoretical skills in these fields.",
         "location_link": "https://maps.app.goo.gl/KxMNAkf2Mf6mXKCJ9",
         "location_name": "Cimanggu District",
         "tags": [
             "Informatics Engineering",
+            "Information Systems",
             "Computer",
             "Developer",
             "Web App Developer",
