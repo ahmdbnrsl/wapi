@@ -4,13 +4,16 @@ import {
     FaInstagram,
     FaXTwitter,
     FaLinkedin,
-    FaTiktok
+    FaTiktok,
+    FaDownload
 } from 'react-icons/fa6';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
 export default function Header() {
     const [play, setPlay] = useState<boolean>(false);
+
+
     const HandlePlay = () => {
         let audio: HTMLMediaElement | null = document.getElementById(
             'aud'
@@ -104,6 +107,12 @@ export default function Header() {
                 <p className='quote'>
                     Professional code resolver, Creative, and Critical thinker
                 </p>
+                <div className='w-full flex justify-start'>
+                    <button className='flex items-center gap-2 resume-btn rounded-full px-5 py-2 mt-2 bg-slate-300 text-slate-900 font-medium hover:bg-slate-400 transition-all animate-bounce' onClick={() => window.open('/Ahmad_Beni_Rusli_CV.pdf', '_blank')}>
+                        <FaDownload />
+                        <span>Download Resume</span>
+                    </button>
+                </div>
                 <nav className='nav'>
                     <button
                         className='About nav-btn group'
